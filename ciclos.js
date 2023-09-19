@@ -18,9 +18,9 @@ contador =0;
 do{
 console.log(contador);
 contador++;
-} while(contador ===0);
+} while(contador !==0);
 //for ... of
 const animales = ['Perro','Gato','Loro','Pez'];
 for(const animal of animales){
-    console.log(animal);
+    console.log
 }
