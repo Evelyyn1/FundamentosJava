@@ -5,7 +5,7 @@ function wrapping(gifts){
    //const tapaInferior ='*' .repeat(gift.length + 2);
    // envueltos.push (`$)
     }
-}
+
 
 
 

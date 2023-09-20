@@ -72,4 +72,6 @@ const mayusculas = minusculas.map(letra => letra.toUpperCase());
  //Regresa True si al menos uno de los elementos cumplen 
 
  const equalTo5 = numbers.some(num => num === 15);
+ console.log(equalTo5);
+ numbers.
 
