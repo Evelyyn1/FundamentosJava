@@ -19,3 +19,4 @@ function setColor(){
  green.addEventListener('change', setColor);
  blue.addEventListener('change', setColor);
  transparente.addEventListener('change', setColor);
+ 
